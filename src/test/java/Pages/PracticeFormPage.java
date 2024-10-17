@@ -34,15 +34,6 @@ public class PracticeFormPage extends BaseTest {
     @FindBy (id = "subjectsContainer")
     WebElement subjectField;
 
-    @FindBy (id = "hobbies-checkbox-1")
-    WebElement Sporstheckbox;
-
-    @FindBy (id = "hobbies-checkbox-2")
-    WebElement readingCheckbox;
-
-    @FindBy (id = "hobbies-checkbox-3")
-    WebElement musicCheckbox;
-
     @FindBy (id = "uploadPicture")
     WebElement uploadPictureButton;
 
